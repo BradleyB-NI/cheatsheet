@@ -1,0 +1,57 @@
+body {
+    background-color: burlywood;
+    font-family: monospace;
+}
+
+header {
+    text-align: center;
+    color:whitesmoke;
+    background-color: firebrick;
+    padding: 5px 0;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.title {
+    text-align: center;
+    background-color: peru;
+    font-size: 20px;
+    border-radius: 10px
+}
+
+.section p {
+    text-align: center;
+}
+
+.section thead {
+    font-weight: bolder;
+    font-size: 20px;
+    background-color:mediumseagreen;
+}
+
+table {
+    text-align: center;
+    border: 2px solid gray;
+    border-collapse: collapse;
+    background-color:darkseagreen;
+    margin: 0 auto;
+}
+
+th, td {
+    border: solid 2px gray;
+    padding: 5px 10px;
+}
+
+footer {
+    background: firebrick;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    padding: 1px 0;
+    margin: 10px auto;
+    width: 50%;
+}
+
+a {
+    color: beige;
+}
